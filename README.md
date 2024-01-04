@@ -4,4 +4,4 @@ It takes an assembly instruction stored in a text file (this text file represent
 
 wrtie the appropriate file path based on where you download this repo: "//mipsinstruction.txt"
 
-File name of the project is simulator project prototype for assembler.cpp
+File name of the project is assembler.cpp
